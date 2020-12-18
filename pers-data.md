@@ -22,13 +22,13 @@ to the data.
 <dl>
   <dt></dt>
   <dd> Job Title
-  <a href="email">email</a></dd>
+  <a href="email">d.lopez2@exeter.ac.uk</a></dd>
 
-  <dt>Date of request</dt>
+  <dt>18-Dec-2020</dt>
   <dd>The actual date</dd>
 
   <dt>Why do you need the personal data?</dt>
-  <dd> Provide an explanation </dd>
+  <dd> Apply NLP techniques to understand interactions between software developers on github </dd>
 
 </dl>
 {%endhighlight%}
